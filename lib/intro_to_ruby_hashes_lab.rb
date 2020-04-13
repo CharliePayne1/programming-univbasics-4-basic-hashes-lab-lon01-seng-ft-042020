@@ -9,7 +9,7 @@ def my_hash
 end
 
 def pioneer
-  code_hash = {name: "Grace hopper"}
+  code_hash = {name: "Grace Hopper"}
   return code_hash
 end
 
